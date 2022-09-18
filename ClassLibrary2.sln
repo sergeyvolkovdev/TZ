@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalc", "SquareCalc\SquareCalc.csproj", "{DE9C2856-FD88-4B93-8006-F702235C3BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalcTest", "SquareCalcTest\SquareCalcTest.csproj", "{5016B4D8-80A1-4825-BFB6-C787F7955493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE9C2856-FD88-4B93-8006-F702235C3BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9C2856-FD88-4B93-8006-F702235C3BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9C2856-FD88-4B93-8006-F702235C3BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9C2856-FD88-4B93-8006-F702235C3BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5016B4D8-80A1-4825-BFB6-C787F7955493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5016B4D8-80A1-4825-BFB6-C787F7955493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5016B4D8-80A1-4825-BFB6-C787F7955493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5016B4D8-80A1-4825-BFB6-C787F7955493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
